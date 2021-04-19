@@ -1,4 +1,4 @@
-### Hi there ![hi](https://user-images.githubusercontent.com/59096080/115278108-596c0980-a145-11eb-9c94-e54b056e90a2.gif)
+### Hi there 👋
 
 
 - 🔭 I’m currently working on My Personal Projects
