@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for an Internship or Job as a Flutter Developer
 - 📫 How to reach me: shawkyahmed392@gmail.com
-- 📄 Check out my Online Resume: [Cleck Here](https://ahmedshawkyahmed.github.io/Online_Resume/)
+- 📄 Check out my Online Resume: [Resume](https://ahmedshawkyahmed.github.io/Online_Resume/)
