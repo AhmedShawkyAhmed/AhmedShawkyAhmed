@@ -15,8 +15,7 @@
 <br />
 
 ### Languages and Tools:
-[https://itfort.ae/wp-content/uploads/2020/11/1200px-Android_Studio_icon.svg.png]
-(https://itfort.ae/wp-content/uploads/2020/11/1200px-Android_Studio_icon.svg.png)
+
 <img align="left" alt="Android Studio" width="26px" src="https://itfort.ae/wp-content/uploads/2020/11/1200px-Android_Studio_icon.svg.png" />
 <img align="left" alt="Intellij" width="26px" src="https://1.bp.blogspot.com/--8qgtWK15rE/V2Ij9pPufbI/AAAAAAAAJsw/1iwzcuKIvIcALAvztITv1BBHHqyvv3D1QCK4B/s320/IJ.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -30,3 +29,6 @@
 
 
 <br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed)](https://github.com/anuraghazra/github-readme-stats)
+
