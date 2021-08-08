@@ -16,7 +16,11 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Android Studio" width="26px" src="https://itfort.ae/wp-content/uploads/2020/11/1200px-Android_Studio_icon.svg.png" />
+<img align="left" alt="Intellij" width="26px" src="https://1.bp.blogspot.com/--8qgtWK15rE/V2Ij9pPufbI/AAAAAAAAJsw/1iwzcuKIvIcALAvztITv1BBHHqyvv3D1QCK4B/s320/IJ.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />
+<img align="left" alt="Dart" width="26px" src="https://avatars3.githubusercontent.com/u/1609975?v=3&s=280" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
