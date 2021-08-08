@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]['https://ahmedshawkyahmed.github.io/Online_Resume/']
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/svg/386/386605.svg" />]['shawkyahmed392@gmail.com']
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]['https://www.linkedin.com/in/ahmed-shawky-ahmed/']
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]['https://twitter.com/AhmedSh4869']
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://ahmedshawkyahmed.github.io/Online_Resume/]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/svg/386/386605.svg" />][shawkyahmed392@gmail.com]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ahmed-shawky-ahmed/]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/AhmedSh4869]
 
 <br />
 
