@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on My Personal Projects
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for an Internship or Job as a Flutter Developer
-- 📄 Check out my CV: [Online CV](https://ahmedshawkyahmed.github.io/Online_Resume/)
-
-<br />
 
 ### Connect with me:
 
