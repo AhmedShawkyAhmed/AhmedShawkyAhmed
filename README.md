@@ -10,9 +10,13 @@ Skills: Flutter / Dart / Database / API
 - 🌱 I’m currently learning Flutter 
 - 🤔 I’m looking for an Internship or Job as a Flutter Developer
 <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark)
+
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 <br/>
 
