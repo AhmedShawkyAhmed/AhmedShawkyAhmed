@@ -4,8 +4,6 @@ I am a Computer Science Student with some Experience in Flutter Mobile Applicati
 I am a Self-Learner, I Keep Improving myself and advancing my Career in Computer Science by 
 taking Courses and Develop Personal Projects. I am Seeking for any opportunity to do so by either Internship or Real Working Projects.
 
-Skills: Flutter / Dart / Database / API
-
 - 🔭 I’m currently working on My Personal Projects 
 - 🌱 I’m currently learning Flutter 
 - 🤔 I’m looking for an Internship or Job as a Flutter Developer
@@ -16,6 +14,11 @@ Skills: Flutter / Dart / Database / API
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+
+<img src='https://itfort.ae/wp-content/uploads/2020/11/1200px-Android_Studio_icon.svg.png' alt='github' height='40'> <img src='https://1.bp.blogspot.com/--8qgtWK15rE/V2Ij9pPufbI/AAAAAAAAJsw/1iwzcuKIvIcALAvztITv1BBHHqyvv3D1QCK4B/s320/IJ.png' alt='github' height='40'> <img src='https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png' alt='github' height='40'> <img src='https://pub.flutter-io.cn/static/img/dart-logo-400x400.png?hash=i18bc8g4aa2r6vf85lpgro6ml5ltd13g' alt='github' height='40'> <img src='https://pluspng.com/img-png/database-icons-download-248-free-database-icon-page-1-1113.png' alt='github' height='40'> 
 
 <br/>
 <br/>
