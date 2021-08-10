@@ -9,7 +9,11 @@ taking Courses and Develop Personal Projects. I am Seeking for any opportunity t
 - 🤔 I’m looking for an Internship or Job as a Flutter Developer
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills: 
