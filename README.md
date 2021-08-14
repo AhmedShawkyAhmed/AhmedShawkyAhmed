@@ -10,11 +10,12 @@ taking Courses and Develop Personal Projects. I am Seeking for any opportunity t
 <br/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
-<br/> 
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark" style="width: 100%" /></div> 
+
+<br/>
 
 
 ### Skills: 
