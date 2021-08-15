@@ -14,7 +14,7 @@ taking Courses and Develop Personal Projects. I am Seeking for any opportunity t
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark" style="width: 100%" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark" style="width: 150%" /></div> 
 
 <br/>
 
