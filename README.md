@@ -10,7 +10,7 @@ taking Courses and Develop Personal Projects. I am Seeking for any opportunity t
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=false" style="width: 50%" /></div> <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark" style="width: 50%" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=false" style="width: 50%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark" style="width: 50%" /></div> 
 
 <br/>
 
