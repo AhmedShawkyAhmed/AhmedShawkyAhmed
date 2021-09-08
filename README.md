@@ -19,7 +19,7 @@ taking Courses and Develop Personal Projects. I am Seeking for any opportunity t
 
 <br/>
 
-<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedShawkyAhmed&theme=dark&hide_border=true"/>
+<div align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedShawkyAhmed&theme=radical&hide_border=true"/>
 </div>
 
 <br/>
