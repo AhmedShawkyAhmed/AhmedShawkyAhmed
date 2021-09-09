@@ -11,7 +11,7 @@ taking Courses and Develop Personal Projects. I am Seeking for any opportunity t
 
 ## Github Stats  
 
-![]<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark&hide_border=true' width='50%'/> ![]<img src='https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true' width='50%'/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&layout=compact&theme=dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true)
 
 
 <br/>
