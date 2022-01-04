@@ -6,7 +6,7 @@ taking Courses and Develop Personal Projects. I am Seeking for any opportunity t
 
 - 🔭 I’m currently working on My Personal Projects 
 - 🌱 I’m currently learning Flutter 
-- 🤔 I’m looking for an Internship or Job as a Flutter Developer
+- 🤔 I’m looking for an Internship or part-time Job as a Flutter Developer
 <br/>
 
 ## Github Stats  
