@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmed Shawky</h1>
+<h1 align="center">Hi there 👋, I'm Ahmed Shawky</h1>
 <h3 align="center">Junior Flutter Developer</h3>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
 
 ## Abont
-I am a Computer Science Student with some Experience in Flutter Mobile Application & Web, 
-I am a Self-Learner, I Keep Improving myself and advancing my Career in Computer Science by 
-taking Courses and Develop Personal Projects. I am Seeking for any opportunity to do so by either Internship or Real Working Projects.
+I am a Geek. I love Programming. I love everything about them. 
+I am a Junior Flutter Application Developer with 2 years of Experience in Mobile Application Development, 
+Strong Mobile Background. Solid understanding of the full Mobile Development life cycle and Connecting apps to different Cloud functions.
 
 - 🔭 I’m currently working on My Personal Projects 
 - 🌱 I’m currently learning Flutter 
