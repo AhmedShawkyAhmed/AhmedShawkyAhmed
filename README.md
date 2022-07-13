@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Shawky</h1>
 <h3 align="center">Junior Mobile Application Developer</h3>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻"/> </h3>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
 
 ## Abont
 I am a Geek. I love Programming. I love everything about them. 
 I am a Junior Flutter Application Developer with 2 years of Experience in Mobile Application Development, 
 Strong Mobile Background. Solid understanding of the full Mobile Development life cycle and Connecting apps to different Cloud functions.
 
-- 🔭 I’m currently working on My Personal Projects 
-- 🌱 I’m currently learning Flutter 
-- 🤔 I’m looking for an Internship or part-time Job as a Flutter Developer
+- 🔭 I’m currently working as Mobile Application Developer at <a href="https://www.magdsoft.com/">Magdsoft</a>
+- 🌱 I’m currently learning more about ios Development with Swift
 <br/>
 
 ## Github Stats  
