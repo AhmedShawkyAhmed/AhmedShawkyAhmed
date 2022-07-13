@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Shawky</h1>
 <h3 align="center">Junior Flutter Developer</h3>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻"/> </p>
 
 ## Abont
 I am a Geek. I love Programming. I love everything about them. 
