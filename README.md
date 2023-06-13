@@ -88,9 +88,10 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-###
 
-![](https://raw.githubusercontent.com/AhmedShawkyAhmed/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AhmedShawkyAhmed/github-stats/master/generated/overview.svg#gh-light-mode-only)
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/AhmedShawkyAhmed/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/AhmedShawkyAhmed/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 ###
