@@ -27,5 +27,4 @@ Strong Mobile Background. Solid understanding of the full Mobile Development lif
 
 ### Find me on: 
 <a href="mailto:ahmedshawkyahmed392@gmail.com"><img src='https://github.ahmedshawky.fun/Gmail.png' alt='mail' height='40'></a> 
-[<img src='https://github.ahmedshawky.fun/in.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-shawky-ahmed//)  
-[<img src='https://github.ahmedshawky.fun/cv.png' alt='website' height='40'>](https://ahmedshawkyahmed.github.io/Online_Resume/)  
+[<img src='https://github.ahmedshawky.fun/in.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-shawky-ahmed//)  [<img src='https://github.ahmedshawky.fun/cv.png' alt='website' height='40'>](https://ahmedshawkyahmed.github.io/Online_Resume/)  
