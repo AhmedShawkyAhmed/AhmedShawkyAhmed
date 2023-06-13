@@ -88,5 +88,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&theme=dark&layout=compact&hide_border=true&langs_count=10&card_width=300)![](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true&line_height=29)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedShawkyAhmed&theme=onestar&row=&column=7&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
