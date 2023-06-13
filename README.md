@@ -11,40 +11,81 @@ Strong Mobile Background. Solid understanding of the full Mobile Development lif
 - 🌱 I’m currently learning more about ios Development with Swift
 <br/>
 
-## Github Stats  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&theme=dark&layout=compact&hide_border=true&langs_count=10&card_width=300)![](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true&line_height=29)
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedShawkyAhmed&theme=onestar&row=&column=7&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-<br/>
-
 ### Skills: 
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.simpleicons.org/xcode/147EFB" height="40" alt="xcode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 </div>
 
-<!-- <img src='https://github.ahmedshawky.fun/android.png' alt='android' height='40'> <img src='https://github.ahmedshawky.fun/xcode.png' alt='xCode' height='40'> <img src='https://github.ahmedshawky.fun/vsc.png' alt='vscode' height='40'> <img src='https://github.ahmedshawky.fun/flutter.png' alt='flutter' height='40'> <img src='https://github.ahmedshawky.fun/dart.png' alt='dart' height='40'> <img src='https://github.ahmedshawky.fun/laravel.png' alt='larevel' height='40'> <img src='https://github.ahmedshawky.fun/php.png' alt='php' height='40'> <img src='https://github.ahmedshawky.fun/mysql.png' alt='mysql' height='40'> <img src='https://github.ahmedshawky.fun/api.png' alt='api' height='40'> <img src='https://github.ahmedshawky.fun/gPlay.png' alt='google play' height='40'> <img src='https://github.ahmedshawky.fun/appstore.png' alt='appstore' height='40'> <img src='https://github.ahmedshawky.fun/xd.png' alt='xd' height='40'> <img src='https://github.ahmedshawky.fun/figma.png' alt='figma' height='40'> <img src='https://github.ahmedshawky.fun/git.png' alt='git' height='40'> <img src='https://github.ahmedshawky.fun/github.png' alt='github' height='40'> <img src='https://github.ahmedshawky.fun/gitlab.png' alt='gitlab' height='40'> <img src='https://github.ahmedshawky.fun/postman.png' alt='postman' height='40'> -->
 
 
 ### Find me on: 
-<a href="mailto:ahmedshawkyahmed392@gmail.com"><img src='https://github.ahmedshawky.fun/Gmail.png' alt='mail' height='40'></a> 
-[<img src='https://github.ahmedshawky.fun/in.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-shawky-ahmed//)  [<img src='https://github.ahmedshawky.fun/cv.png' alt='website' height='40'>](https://ahmedshawkyahmed.github.io/Online_Resume/)  
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://ahmedshawkyahmed.github.io/Online_Resume/" target="_blank">
+    <img src="https://github.ahmedshawky.fun/cv.png" width="30" height="30" alt="hackerrank logo"  />
+  </a>
+  <a href="mailto:ahmedshawkyahmed392@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-shawky-ahmed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/19117978/ahmed-shawky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="30" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/shawkyahmed392?hr_r=1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="30" height="30" alt="hackerrank logo"  />
+  </a>
+</div>
+
+<br/>
+
+## Github Stats  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&theme=dark&layout=compact&hide_border=true&langs_count=10&card_width=300)
+![](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true&line_height=29)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedShawkyAhmed&theme=onestar&row=&column=7&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
+
