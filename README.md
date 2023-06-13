@@ -22,7 +22,27 @@ Strong Mobile Background. Solid understanding of the full Mobile Development lif
 <br/>
 
 ### Skills: 
-<img src='https://github.ahmedshawky.fun/android.png' alt='android' height='40'> <img src='https://github.ahmedshawky.fun/xcode.png' alt='xCode' height='40'> <img src='https://github.ahmedshawky.fun/vsc.png' alt='vscode' height='40'> <img src='https://github.ahmedshawky.fun/flutter.png' alt='flutter' height='40'> <img src='https://github.ahmedshawky.fun/dart.png' alt='dart' height='40'> <img src='https://github.ahmedshawky.fun/laravel.png' alt='larevel' height='40'> <img src='https://github.ahmedshawky.fun/php.png' alt='php' height='40'> <img src='https://github.ahmedshawky.fun/mysql.png' alt='mysql' height='40'> <img src='https://github.ahmedshawky.fun/api.png' alt='api' height='40'> <img src='https://github.ahmedshawky.fun/gPlay.png' alt='google play' height='40'> <img src='https://github.ahmedshawky.fun/appstore.png' alt='appstore' height='40'> <img src='https://github.ahmedshawky.fun/xd.png' alt='xd' height='40'> <img src='https://github.ahmedshawky.fun/figma.png' alt='figma' height='40'> <img src='https://github.ahmedshawky.fun/git.png' alt='git' height='40'> <img src='https://github.ahmedshawky.fun/github.png' alt='github' height='40'> <img src='https://github.ahmedshawky.fun/gitlab.png' alt='gitlab' height='40'> <img src='https://github.ahmedshawky.fun/postman.png' alt='postman' height='40'>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+<!-- <img src='https://github.ahmedshawky.fun/android.png' alt='android' height='40'> <img src='https://github.ahmedshawky.fun/xcode.png' alt='xCode' height='40'> <img src='https://github.ahmedshawky.fun/vsc.png' alt='vscode' height='40'> <img src='https://github.ahmedshawky.fun/flutter.png' alt='flutter' height='40'> <img src='https://github.ahmedshawky.fun/dart.png' alt='dart' height='40'> <img src='https://github.ahmedshawky.fun/laravel.png' alt='larevel' height='40'> <img src='https://github.ahmedshawky.fun/php.png' alt='php' height='40'> <img src='https://github.ahmedshawky.fun/mysql.png' alt='mysql' height='40'> <img src='https://github.ahmedshawky.fun/api.png' alt='api' height='40'> <img src='https://github.ahmedshawky.fun/gPlay.png' alt='google play' height='40'> <img src='https://github.ahmedshawky.fun/appstore.png' alt='appstore' height='40'> <img src='https://github.ahmedshawky.fun/xd.png' alt='xd' height='40'> <img src='https://github.ahmedshawky.fun/figma.png' alt='figma' height='40'> <img src='https://github.ahmedshawky.fun/git.png' alt='git' height='40'> <img src='https://github.ahmedshawky.fun/github.png' alt='github' height='40'> <img src='https://github.ahmedshawky.fun/gitlab.png' alt='gitlab' height='40'> <img src='https://github.ahmedshawky.fun/postman.png' alt='postman' height='40'> -->
 
 
 ### Find me on: 
