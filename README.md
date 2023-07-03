@@ -64,9 +64,6 @@ Strong Mobile Background. Solid understanding of the full Mobile Development lif
 <br clear="both">
 
 <div align="left">
-  <a href="https://ahmedshawkyahmed.github.io/Online_Resume/" target="_blank">
-    <img src="https://github.ahmedshawky.fun/cv.png" width="30" height="30" alt="hackerrank logo"  />
-  </a>
   <a href="mailto:ahmedshawkyahmed392@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
   </a>
