@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Application Developer</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
 
-## Abont
+## About
 I am a Geek. I love Programming. I love everything about them. 
 I am a Mobile Application Developer with 2 years of Experience in Mobile Application Development, 
 Strong Mobile Background. Solid understanding of the full Mobile Development life cycle and Connecting apps to different Cloud functions.
