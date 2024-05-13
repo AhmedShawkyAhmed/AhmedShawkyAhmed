@@ -3,11 +3,11 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
 
 ## About
-I am a Geek. I love Programming. I love everything about them. 
-I am a Mobile Application Developer with 2 years of Experience in Mobile Application Development, 
-Strong Mobile Background. Solid understanding of the full Mobile Development life cycle and Connecting apps to different Cloud functions.
+Mobile Application Developer with a Strong Understanding of the Latest Mobile Development Technologies and 
+Trends. Seeking a Position Where I can use my Skills and Experience to Help a Company Develop and Launch 
+Mobile Applications that are Bug-Free and Reliable.
 
-- 🔭 I’m currently working as Mobile Application Developer at <a href="https://alhawsaba.com/" target="_blank">AL-Hawsaba</a>
+- 🔭 I’m currently working as Mobile Application Developer at Granit</a>
 - 🌱 I’m currently learning more about ios Development with Swift
 <br/>
 
@@ -70,12 +70,12 @@ Strong Mobile Background. Solid understanding of the full Mobile Development lif
   <a href="https://www.linkedin.com/in/ahmed-shawky-ahmed/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/19117978/ahmed-shawky" target="_blank">
+<!--   <a href="https://stackoverflow.com/users/19117978/ahmed-shawky" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="30" height="30" alt="stackoverflow logo"  />
   </a>
   <a href="https://www.hackerrank.com/shawkyahmed392?hr_r=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="30" height="30" alt="hackerrank logo"  />
-  </a>
+  </a> -->
 </div>
 
 <br/>
