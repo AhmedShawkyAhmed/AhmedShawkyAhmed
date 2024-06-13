@@ -4,7 +4,7 @@
 
 ## About
 Mobile Application Developer with a Strong Understanding of the Latest Mobile Development Technologies and 
-Trends. Seeking a Position Where I can use my Skills and Experience to Help a Company Develop and Launch 
+Trends. Seeking a Position Where I can use my Skills and Experience to Help a Company Develop and Launch
 Mobile Applications that are Bug-Free and Reliable.
 
 - 🔭 I’m currently working as Mobile Application Developer at Granit</a>
@@ -80,9 +80,10 @@ Mobile Applications that are Bug-Free and Reliable.
 
 <br/>
 
+<--
 ## Github Stats  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShawkyAhmed&theme=dark&layout=compact&hide_border=true&langs_count=10&card_width=300)
 ![](https://github-readme-stats.vercel.app/api?username=AhmedShawkyAhmed&show_icons=true&theme=dark&show_icons=true&count_private=true&hide_border=true&line_height=29)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AhmedShawkyAhmed&theme=onestar&row=&column=7&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+--/>
