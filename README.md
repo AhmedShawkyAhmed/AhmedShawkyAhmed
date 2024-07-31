@@ -3,9 +3,13 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile+🧑‍💻" /> </p>
 
 ## About
-Mobile Application Developer with a Strong Understanding of the Latest Mobile Development Technologies and 
-Trends. Seeking a Position Where I can use my Skills and Experience to Help a Company Develop and Launch
-Mobile Applications that are Bug-Free and Reliable.
+Experienced Flutter Software Engineer with a strong background in developing and maintaining high-quality 
+mobile applications. Proven ability to collaborate with cross-functional teams, including product managers, back- 
+end developers, and designers, to deliver robust solutions. Skilled in state management, particularly with Bloc 
+and GetX. Demonstrated expertise in designing and implementing mission-critical systems, conducting 
+requirements gathering, and mentoring junior developers. Adept at troubleshooting, debugging, and optimizing 
+applications for performance and scalability. Committed to continuous improvement and staying abreast of new 
+technologies
 
 - 🔭 I’m currently working as Mobile Application Developer at Granit</a>
 - 🌱 I’m currently learning more about ios Development with Swift
