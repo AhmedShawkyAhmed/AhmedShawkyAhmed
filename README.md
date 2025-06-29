@@ -1,5 +1,17 @@
 # 💫 About Me:
-Experienced Software Engineer with a strong background in developing and maintaining high-quality <br>mobile applications. Proven ability to collaborate with cross-functional teams, including product managers, back- <br>end developers, and designers, to deliver robust solutions. Skilled in state management, particularly with Bloc <br>and GetX. Demonstrated expertise in designing and implementing mission-critical systems, conducting <br>requirements gathering, and mentoring junior developers. Adept at troubleshooting, debugging, and optimizing <br>applications for performance and scalability. Committed to continuous improvement and staying abreast of new <br>technologies<br><br>- 🔭 I’m currently working as Senior Mobile Engineer at Intalio</a><br>- 🌱 I’m currently learning more about iOS Development with Swift
+Senior Mobile Engineer specializing in high-performance mobile apps using Flutter, Kotlin (Android), and Swift (iOS). I build scalable, real-time systems with clean architecture, maintainable codebases, and smooth user experiences.<br>
+
+Core strengths:<br>
+• Cross-platform & Native Mobile (Flutter, Kotlin, Swift)<br>
+• Real-time Systems (WebSockets, Firebase, Socket.IO)<br>
+• Google Maps SDK – live tracking, geolocation, navigation<br>
+• Architecture: Clean Architecture, BLoC, Provider, DI<br>
+• RESTful APIs, Modular Design, Git, CI/CD<br>
+
+I’m passionate about system design, tackling complex technical challenges, and leading projects from concept to launch. Known for collaborating across teams and consistently delivering production-grade apps that scale.
+<br><br>
+- 🔭 I’m currently working as Senior Mobile Engineer at Intalio</a><br>
+- 🌱 I’m currently learning more about iOS Development with Swift
 
 
 ## 🌐 Socials:
