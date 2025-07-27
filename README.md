@@ -35,4 +35,3 @@ I’m passionate about system design, tackling complex technical challenges, and
 [![](https://visitcount.itsvg.in/api?id=AhmedShawkyAhmed&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
