@@ -59,7 +59,7 @@ Here are some of the packages and tools I’ve developed to accelerate mobile de
 
 ### 🔥 Other Utilities
 
-- 🗺️ [`flutter_google_maps_heatmap`](https://github.com/AhmedShawkyAhmed/flutter_google_maps_heatmap)  
+- 🗺️ [`flutter_google_maps_heatmap`](https://github.com/AhmedShawkyAhmed/HeatMap)  
   Custom plugin to overlay heatmaps on Google Maps using native Android/iOS.
 
 - 🪵 [`core_utils`](https://github.com/AhmedShawkyAhmed/core_uitls)  
@@ -67,7 +67,7 @@ Here are some of the packages and tools I’ve developed to accelerate mobile de
 
 ### ⚙️ CLI Tool
 
-- 💻 [`shawkyCLI`](https://github.com/AhmedShawkyAhmed/flutter_starter_cli)  
+- 💻 [`shawkyCLI`](https://github.com/AhmedShawkyAhmed/shawky_cli)  
   A custom CLI to scaffold Flutter projects with best practices and architecture templates.
 
 > All packages are built with clean code, modularity, and developer experience in mind. Contributions and feedback are always welcome.
