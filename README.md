@@ -1,62 +1,93 @@
 # 👋 Hi, I'm Ahmed Shawky
 
-🎯 **Senior Mobile Engineer | Flutter Specialist | Backend Enthusiast**
+🎯 **Senior Mobile Engineer | Flutter Specialist | Architecture Enthusiast**
 
 I'm a passionate software engineer with over **5 years of experience** building high-performance, scalable, and user-focused **mobile applications**. I specialize in **Flutter**, with a strong background in **native Android (Kotlin)** and **iOS (Swift)** development.
 
-Currently, I'm diving deeper into **backend systems** using **Dart + Serverpod**, **Laravel**, and **WebSockets** to create full-stack, real-time experiences.
+I focus on building not just apps, but complete systems — emphasizing **architecture**, **scalability**, **real-time experiences**, and **clean code practices**.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 💻 Mobile Development
-- Flutter (Web/Mobile/Desktop)
+- Flutter (Mobile, Web, Desktop)
 - Dart, BLoC, Cubit, GetX, Provider
 - Kotlin (Android)
 - Swift (iOS)
-- Platform Channels (iOS & Android integrations)
+- Platform Channels (Native Integration)
 
 ### 🌐 Backend & API
 - Laravel + MySQL
-- Serverpod (Dart Backend)
 - REST APIs, Retrofit
-- WebSockets (Real-time systems)
+- WebSockets (Real-time communication)
 
 ### ☁️ Cloud & Tools
-- Firebase (Auth, Firestore, Realtime DB, Messaging)
+- Firebase (Auth, Firestore, Realtime DB, FCM)
 - Google Maps SDK & Live Tracking
 - CI/CD (Codemagic, GitHub Actions, Fastlane)
-- Docker (Learning & experimenting)
+- Docker (For Dev Environments)
 
-### 📦 Architecture & Tools
+### 🧱 Architecture & Patterns
 - Clean Architecture
+- Feature-based Modular Structure
+- SOLID Principles
 - Dependency Injection (get_it)
-- Modular & Scalable Project Design
-- Git, GitHub, GitLab, Bitbucket
 
 ---
 
-## 🛠️ Side Projects & Plugins
+## 🧩 Flutter Packages & Tools
 
-- 🔥 Custom Flutter Plugin for Google Maps Heatmaps (Android & iOS)
-- 🧭 Location Service Package with Geolocator + Permissions abstraction
-- 💬 Real-time Order & Chat System using Node.js and Laravel (WebSocket Bridge)
+Here are some of the packages and tools I’ve developed to accelerate mobile development and enforce architectural consistency:
 
-> Check out my repositories for more projects and contributions.
+### 📦 Core Services
+
+- 🔌 [`network_service`](https://github.com/AhmedShawkyAhmed/network_service)  
+  A robust networking layer with error handling and base model parsing.
+
+- 📍 [`location_service`](https://github.com/AhmedShawkyAhmed/location_service)  
+  Handles geolocation, permissions, and location updates with a clean interface.
+
+- 🔐 [`security_service`](https://github.com/AhmedShawkyAhmed/security_service)  
+  Secure local storage wrapper with encryption and biometric support.
+
+- 🔔 [`notification_service`](https://github.com/AhmedShawkyAhmed/notification_service)  
+  Manages push notifications using Firebase Messaging and local notifications.
+
+- 🌐 [`socket_service`](https://github.com/AhmedShawkyAhmed/socket_service)  
+  A WebSocket layer that simplifies real-time communication and channel handling.
+
+### 🔥 Other Utilities
+
+- 🗺️ [`flutter_google_maps_heatmap`](https://github.com/AhmedShawkyAhmed/flutter_google_maps_heatmap)  
+  Custom plugin to overlay heatmaps on Google Maps using native Android/iOS.
+
+- 🪵 [`core_utils`](https://github.com/AhmedShawkyAhmed/core_uitls)  
+  Lightweight developer logger with tags and environment awareness.
+
+### ⚙️ CLI Tool
+
+- 💻 [`shawkyCLI`](https://github.com/AhmedShawkyAhmed/flutter_starter_cli)  
+  A custom CLI to scaffold Flutter projects with best practices and architecture templates.
+
+> All packages are built with clean code, modularity, and developer experience in mind. Contributions and feedback are always welcome.
 
 ---
 
 ## 🎯 What I'm Learning Now
-- 🧠 System Design for Scalable Mobile Apps
-- 📦 Building & Publishing Reusable Flutter Plugins
-- 💡 Advanced Native + Flutter Integration
-- 🛠️ Production-grade Backend with Serverpod & Laravel
-- 🤖 Exploring AI & ML with Dart and Edge APIs
+
+- 🧠 **Advanced App Architecture**
+  - Onion & Hexagonal Architectures
+  - Separation of Concerns in large-scale apps
+  - Event-driven & modular mobile design
+
+- 🛠️ Building Flutter Plugins (Native Integration)
+- 📦 Scalable Service-Oriented Codebase Structures
+- ⚙️ CI/CD automation for large apps
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 - 📧 shawkyahmed392@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-shawky-ahmed/)  
@@ -65,5 +96,4 @@ Currently, I'm diving deeper into **backend systems** using **Dart + Serverpod**
 
 ---
 
-> “Build systems, not just apps. Think like an engineer, not just a developer.”
-
+> “Great apps start with great architecture — scalable, testable, and ready for growth.”
