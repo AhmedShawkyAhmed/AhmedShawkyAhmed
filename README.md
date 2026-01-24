@@ -92,7 +92,7 @@ Here are some of the packages and tools I’ve developed to accelerate mobile de
 - 📧 shawkyahmed392@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-shawky-ahmed/)  
 - 🐙 [GitHub](https://github.com/AhmedShawkyAhmed)  
-- 🌍 [Portfolio (Coming Soon)]()
+- 🌍 [Portfolio](https://ahmedshawkyahmed.github.io/ShawkyDev/)
 
 ---
 
