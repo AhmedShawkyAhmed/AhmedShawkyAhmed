@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Shawky
 
-🎯 **Senior Mobile Engineer | Flutter Specialist | Architecture Enthusiast**
+🎯 **Senior Mobile Engineer | Flutter & Native (Swift/Kotlin) | Mobile Architecture Enthusiast**
 
 I'm a passionate software engineer with over **5 years of experience** building high-performance, scalable, and user-focused **mobile applications**. I specialize in **Flutter**, with a strong background in **native Android (Kotlin)** and **iOS (Swift)** development.
 
